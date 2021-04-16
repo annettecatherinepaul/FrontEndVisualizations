@@ -2,7 +2,9 @@ import React, {Component} from 'react'
 import MetricCard from "react-metric-card";
 import 'C:/Users/annet/WebstormProjects/Annette_Codes/my-awesome-vis-app/node_modules/react-metric-card/dist/index.css'
 
-export default class Metric extends Component {
+
+
+export default class MC_TotalSearches extends Component {
     render() {
         return (
             <div
